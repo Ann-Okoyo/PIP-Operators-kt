@@ -9,7 +9,7 @@ fun main() {
     val isfishTasty :Boolean = false
     println(iskotlinFun)
     println(iskotlinFun)
-    //Booleans values are mostly used fr conditional testing
+    //Booleans values are mostly used for conditional testing
     //
     val myGrade :Char = 'B'
     println(myGrade)
